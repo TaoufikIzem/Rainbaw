@@ -5,5 +5,5 @@ blew
 green
 Purpal
 grey
-add more feature in branch1
 add shape
+add more features to the branch2
